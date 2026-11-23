@@ -11,21 +11,7 @@
 <br/>
 
 <!-- Badges Row 1 -->
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
 
-<!-- Badges Row 2 -->
-<p>
-  <img src="https://img.shields.io/github/stars/sorol25/SQLPythonPowerBI-customer-trendAnalysis?style=for-the-badge&color=A78BFA"/>
-  <img src="https://img.shields.io/github/forks/sorol25/SQLPythonPowerBI-customer-trendAnalysis?style=for-the-badge&color=7C3AED"/>
-  <img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Complete-A78BFA?style=for-the-badge"/>
-</p>
 
 </div>
 

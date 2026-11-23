@@ -174,8 +174,7 @@ Queries answer key business questions around:
 ## 📁 Repository Structure
 
 ```
-SQLPythonPowerBI-customer-trendAnalysis/
-│
+
 ├── 📓 Customer_Shopping_Behavior_Analysis.ipynb   # Python EDA & Data Prep
 ├── 🗄️  customer_behavior_sql_queries.sql          # SQL Business Queries
 ├── 📊 customer_behavior_dashboard.pbix            # Power BI Dashboard
@@ -198,56 +197,5 @@ SQLPythonPowerBI-customer-trendAnalysis/
 | 3 | How does customer loyalty correlate with spend? | SQL |
 | 4 | What are the peak buying seasons and categories? | SQL + Power BI |
 | 5 | Which demographics are most valuable long-term? | Python + Power BI |
-
-<br/>
-
----
-
-## 📜 License
-
-```
-MIT License — Copyright (c) 2026 Yeamine Alam Sorol
-
-Permission is hereby granted, free of charge— fork it, star it.
-```
-
-<br/>
-
----
-
-## 👨‍💻 About the Author
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&width=600" width="600"/>
-
-<br/><br/>
-
-**Yeamine Alam Sorol**
-*Data Analyst & Web Developer*
-
-I break down complex data topics into simple, practical content that actually helps you land a job. I regularly share around SQL, analytics workflows, portfolio projects, and career growth.
-
-<br/>
-
-<a href="www.linkedin.com/in/yeamine-alam-sorol-746831347">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/sorol25/SQLPythonPowerBI-customer-trendAnalysis">
-  <img src="https://img.shields.io/badge/⭐_Star_This_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-<sub>💡 If this project helped you, consider starring ⭐ the repo or sharing it with someone on their data analytics journey.</sub>
 
 </div>
